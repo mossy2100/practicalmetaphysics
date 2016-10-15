@@ -142,4 +142,3 @@ function printError($msg)
 {
 	printbr("<font color=red><b>ERROR:</b></font> $msg");
 }
-?>
